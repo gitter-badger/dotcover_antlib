@@ -119,3 +119,4 @@ trouble of actually pasting this in every source file)
  *  limitations under the License.
  *
  */
+Join the chat at https://gitter.im/edisongustavo/dotcover_antlib
